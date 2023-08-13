@@ -12,3 +12,5 @@ Run the consumer
 ```
 $ ruby consumer.rb
 ```
+
+![image](https://github.com/gabrielsugai/event_driven_test/assets/26432843/97d5fd25-a72f-462f-ba89-f6c02d0d54c4)
